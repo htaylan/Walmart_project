@@ -1,0 +1,90 @@
+Text: Drug Facts
+Confidence: 0.94
+----------------------------------------
+Text: Active ingredient
+Confidence: 1.00
+----------------------------------------
+Text: Purpose
+Confidence: 1.00
+----------------------------------------
+Text: Aluminum zirconium brichlorohydrex
+Confidence: 0.79
+----------------------------------------
+Text: Gly 18% (anhydrous):
+Confidence: 0.65
+----------------------------------------
+Text: Antiperspirant
+Confidence: 0.97
+----------------------------------------
+Text: Use reduces underanm wetness
+Confidence: 0.86
+----------------------------------------
+Text: Warnings
+Confidence: 0.93
+----------------------------------------
+Text: For extemal use only:
+Confidence: 0.69
+----------------------------------------
+Text: Do not use on broken skin
+Confidence: 0.80
+----------------------------------------
+Text: Aska doctor before use [f you have kidney disease
+Confidence: 0.73
+----------------------------------------
+Text: use Ff rash or iritation occurs
+Confidence: 0.63
+----------------------------------------
+Text: Keep out of reach of chikdren  [f swallowed} get
+Confidence: 0.38
+----------------------------------------
+Text: medical help or contacta Poison Control Center right
+Confidence: 0.81
+----------------------------------------
+Text: away:
+Confidence: 0.96
+----------------------------------------
+Text: Directions
+Confidence: 0.99
+----------------------------------------
+Text: apply to underarms only
+Confidence: 0.80
+----------------------------------------
+Text: [nactive ngredients
+Confidence: 0.69
+----------------------------------------
+Text: cyclopentasiloxane stearyl alcohol;
+Confidence: 0.66
+----------------------------------------
+Text: C12-i5alkyl benzoate,PPG-14 buty
+Confidence: 0.54
+----------------------------------------
+Text: ether; hydrogenated castor oil;
+Confidence: 0.39
+----------------------------------------
+Text: Fecogctocezten; minerarocone;
+Confidence: 0.02
+----------------------------------------
+Text: 
+Confidence: 0.00
+----------------------------------------
+Text: tragrance _behenylalcohol
+Confidence: 0.41
+----------------------------------------
+Text: Questions?1-800-964-1947
+Confidence: 0.72
+----------------------------------------
+Text: Dist by Procter & Gamble; Cincinnati; OH45202,
+Confidence: 0.32
+----------------------------------------
+Text: 92358925
+Confidence: 0.79
+----------------------------------------
+Text: W secretcom
+Confidence: 0.78
+----------------------------------------
+Text: 4241TN EXPO7/2016
+Confidence: 0.87
+----------------------------------------
+Text: Stop_
+Confidence: 0.83
+----------------------------------------
