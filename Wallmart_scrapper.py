@@ -1,3 +1,5 @@
+### Scraping Wallmart :https://scrapfly.io/blog/how-to-scrape-walmartcom/" ###
+
 import asyncio
 import json
 import httpx
